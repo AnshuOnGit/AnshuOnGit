@@ -18,7 +18,7 @@ Exploring and experimenting with Model Context Protocol (MCP) agents. This proje
 Deep dive into Graph-based Retrieval-Augmented Generation systems. This repository features implementations of advanced RAG techniques using graph structures to enhance information retrieval and generation quality.
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript/TypeScript, and more
+- **Languages**: Python, JavaScript/TypeScript
 - **AI/ML**: LangChain, LlamaIndex, OpenAI API, Embeddings
 - **Backend**: REST APIs, Microservices Architecture
 - **Databases**: Vector Databases, Graph Databases, SQL/NoSQL
